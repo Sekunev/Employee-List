@@ -1,4 +1,4 @@
-# Tour Places
+# Employee List
 
 ### Check The Live Website ➡️ [Live Website](https://sekunev-employee-list.netlify.app/)
 
@@ -36,4 +36,4 @@ SOLUTION
 
 ### Used in this project
 
-👉 I mastered ReactJS (Components, JSX, Style, Props, state) HTML, CSS, SCSS and Javascript features in this project. You can see the visual representation of the website above.
+👉 I mastered ReactJS (Components, JSX, Style, Props, state) HTML, CSS and Javascript features in this project. You can see the visual representation of the website above.
